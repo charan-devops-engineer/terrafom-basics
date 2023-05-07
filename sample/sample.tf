@@ -1,3 +1,3 @@
 output "sai" {
-  value       =     "Welcome to sai Terraform Learning"
+  value       =     "welcome to sai's terrafom learning"
 }
